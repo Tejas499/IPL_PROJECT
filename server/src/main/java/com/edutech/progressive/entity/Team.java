@@ -1,8 +1,7 @@
 package com.edutech.progressive.entity;
 
 public class Team {
-<<<<<<< HEAD
-=======
+
     private int teamId;
     private String teamName;
     private String location;
@@ -67,6 +66,6 @@ public class Team {
     
 
     
->>>>>>> 70fcab4a46171ba2ea65f95d7fa9656a0b0db919
+// >>>>>>> 70fcab4a46171ba2ea65f95d7fa9656a0b0db919
 
 }

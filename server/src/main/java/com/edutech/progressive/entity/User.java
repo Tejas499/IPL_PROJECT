@@ -2,8 +2,6 @@ package com.edutech.progressive.entity;
 
 public class User {
 
-<<<<<<< HEAD
-=======
     private int userId;
     private String fullName;
     private String username;
@@ -77,5 +75,5 @@ public class User {
 
     
 
->>>>>>> 70fcab4a46171ba2ea65f95d7fa9656a0b0db919
+// >>>>>>> 70fcab4a46171ba2ea65f95d7fa9656a0b0db919t
 }

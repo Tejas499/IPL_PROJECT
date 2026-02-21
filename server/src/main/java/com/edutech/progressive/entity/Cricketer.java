@@ -1,8 +1,7 @@
 package com.edutech.progressive.entity;
 
 public class Cricketer {
-<<<<<<< HEAD
-=======
+
     private int cricketerId;
     private int teamId;
     private String cricketername;
@@ -93,8 +92,5 @@ public class Cricketer {
 
 
     
-
-
->>>>>>> 70fcab4a46171ba2ea65f95d7fa9656a0b0db919
 
 }
