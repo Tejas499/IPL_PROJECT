@@ -3,7 +3,7 @@ package com.edutech.progressive.entity;
 import java.sql.Date;
 
 public class Match {
-
+//From tejas
     private int matchId;
     private int firstTeamId;
     private int secondTeamId;
