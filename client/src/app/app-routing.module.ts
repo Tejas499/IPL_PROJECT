@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-
+ 
+ 
 const routes: Routes = [
   {
     path: 'auth',
@@ -16,7 +17,7 @@ const routes: Routes = [
     redirectTo: '/auth',  // Redirect to 'auth' route by default
   }
 ];
-
+ 
 @NgModule({
   imports: [RouterModule.forRoot(routes)],
   exports: [RouterModule],

@@ -9,7 +9,7 @@ const testSuites = [
                     "DayTwoTest.java"
                 ],
                 testcases: [
-                   ""
+                    "No Testcase to Execute"
                 ]
             }
         ]
